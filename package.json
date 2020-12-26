@@ -1,6 +1,6 @@
 {
   "name": "abc-select-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "author": "m3g4p0p",
   "license": "MIT",
@@ -10,11 +10,11 @@
     "prepare": "yarn build"
   },
   "devDependencies": {
-    "css-loader": "^1.0.0",
-    "node-sass": "^4.9.3",
-    "sass-loader": "^7.1.0",
-    "standard": "^11.0.1",
-    "standard-loader": "^6.0.1",
+    "css-loader": "^5.0.1",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "standard": "^16.0.3",
+    "standard-loader": "^7.0.0",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0"
   },
